@@ -1,0 +1,9 @@
+Package: com.benny.mylogd
+Name: mylogd
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: benny
+Author: benny
+Section: System
+Tag: role::hacker
